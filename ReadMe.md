@@ -32,6 +32,7 @@ func adaptiveLoader(session: URLSession = .shared, regularURL: URL, lowDataURL: 
 ```
 ## WebSocket
 <img width="500" alt="example" src="https://github.com/ibcylon/WWDC19---Advanced-Network/assets/25360781/1c951e74-c187-45fd-a72a-b8f0ab2b80fb">
+
 ```swift
 // NativeClient.swift
 func readMessage() {
